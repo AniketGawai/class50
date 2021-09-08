@@ -1,0 +1,26 @@
+h1 {
+    color: aqua;
+   
+}
+
+.Header{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-between;
+
+}
+.grid{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.item img{
+    border-radius: 100px ;
+}
+
+.item p{
+/* background-color: darkgreen; */
+    color: deeppink;
+}
